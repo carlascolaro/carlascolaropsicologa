@@ -867,3 +867,40 @@ body {
     }
 }
 
+
+
+/* Mobile adjustments for About Section */
+@media (max-width: 768px) {
+    .about-right p:last-of-type {
+        margin-bottom: 10px; /* Reduce space after the last paragraph in about-right */
+    }
+
+    .about-bottom-text p:first-of-type {
+        margin-top: 10px; /* Reduce space before the first paragraph in about-bottom-text */
+    }
+}
+
+
+
+.gpt-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.gpt-btn {
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 1rem;
+    line-height: 1.4; /* Adjust line-height for two lines of text */
+}
+
+@media (max-width: 768px) {
+    .gpt-button-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+}
+
+
