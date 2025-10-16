@@ -66,7 +66,7 @@ body {
 
 /* Intro Section */
 .intro {
-    background: #DAA520; /* Unified mustard/ochre color */
+    background: #AEC6CF; /* Unified mustard/ochre color */
     padding: 80px 20px;
     text-align: center;
     color: #333;
@@ -172,7 +172,7 @@ body {
 }
 
 .about-final-quote-section {
-    background: #DAA520; /* Changed from black to mustard/ochre */
+    background: #AEC6CF; /* Changed from black to mustard/ochre */
     padding: 60px 20px;
     text-align: center;
 }
@@ -391,7 +391,7 @@ body {
 .gpt-color-block {
     width: 100%;
     height: 100%;
-    background-color: #DAA520; /* Mustard/ochre color for the rectangle */
+    background-color: #AEC6CF; /* Mustard/ochre color for the rectangle */
 }
 
 .gpt-content {
